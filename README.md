@@ -1,4 +1,4 @@
 # Analyisis Using Pandas with Quantative Metrics
-STD
+STD/no
 Shrape ratio
 analysis
