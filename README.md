@@ -1,7 +1,6 @@
 ![image](https://github.com/Jvvne/Quant-DataCleaning/assets/148028363/47e8746f-48ee-4998-baea-a3820708ea91)
 
 # Analyisis Using Pandas with Quantative Metrics
-# Portfolio Performance Tool
 
 ## Project Goal:
 The goal of this project is to analyze and compare the performance of various portfolios across multiple metrics, including volatility, returns, risk, and Sharpe ratios. By evaluating these metrics, we can determine which portfolio outperforms the others.
