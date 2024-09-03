@@ -62,4 +62,5 @@ We create a custom portfolio using a selection of stocks and compare its perform
 4. Run the cells to see the analysis and visualizations.
 
 This tool provides a comprehensive analysis of portfolio performance, helping investors make informed decisions based on key financial metrics.
-
+.
+.
